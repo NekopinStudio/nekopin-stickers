@@ -1,0 +1,140 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "nekopin_oc_01",
+      "name": "Nekopin Stickers",
+      "publisher": "Nekopin",
+      "tray_image_file": "tray.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "stickers": [
+        {
+          "image_file": "01_Gers_01_carcajada.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "01_Gers_02_furia.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "01_Gers_03_agotamiento.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "01_Gers_04_sorpresa.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "01_Gers_05_llanto.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "02_Poppy_01_picardia.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "02_Poppy_02_sarcasmo.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "02_Poppy_03_aprobacion.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "02_Poppy_04_hartazgo.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "02_Poppy_05_duda.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "03_Zia_01_carcajada.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "03_Zia_02_orgullo.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "03_Zia_03_confusion.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "03_Zia_04_verguenza.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "03_Zia_05_sueno.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "04_Lior_01_enamorada.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "04_Lior_02_amor.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "04_Lior_03_chisme.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "04_Lior_04_melancolia.webp",
+          "emojis": [
+            "✨"
+          ]
+        },
+        {
+          "image_file": "04_Lior_05_aprobacion.webp",
+          "emojis": [
+            "✨"
+          ]
+        }
+      ]
+    }
+  ]
+}

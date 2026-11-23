@@ -1,0 +1,5 @@
+package com.nekopin.stickers;
+import android.app.*;import android.os.*;import android.content.*;import android.graphics.Color;import android.view.*;import android.widget.*;
+public class MainActivity extends Activity {
+ public void onCreate(Bundle b){super.onCreate(b);LinearLayout l=new LinearLayout(this);l.setOrientation(1);l.setPadding(32,64,32,32);l.setBackgroundColor(Color.rgb(248,245,250));TextView t=new TextView(this);t.setText("Nekopin Stickers\n\n20 reacciones de Gers, Poppy, Zia y Lior");t.setTextSize(24);l.addView(t);Button a=new Button(this);a.setText("Añadir a WhatsApp");l.addView(a);a.setOnClickListener(v->{Intent i=new Intent("com.whatsapp.intent.action.ENABLE_STICKER_PACK");i.putExtra("sticker_pack_id","nekopin_oc_01");i.putExtra("sticker_pack_authority","com.nekopin.stickers.provider");i.putExtra("sticker_pack_name","Nekopin Stickers");try{startActivityForResult(i,200);}catch(Exception e){new AlertDialog.Builder(this).setMessage("Instala o actualiza WhatsApp para añadir este paquete.").setPositiveButton("Aceptar",null).show();}});setContentView(l);}
+}
